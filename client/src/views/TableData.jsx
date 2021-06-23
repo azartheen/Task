@@ -11544,7 +11544,7 @@ const data = [
   const onRowSelection = ({ toggleAccordion }) => toggleAccordion();
   
 
-const TableData = (props) => {
+  const TableData = (props) => {
 	return (
 		<div className='TableData'>
 			<h1>dummy table Data !</h1>
