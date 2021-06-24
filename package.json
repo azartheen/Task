@@ -24,5 +24,8 @@
     "material-table": "^1.63.0",
     "mongoose": "^5.12.14",
     "morgan": "^1.9.1"
-  }
+  },
+   "engines": {
+        "node": "10.16.0"
+    }
 }
